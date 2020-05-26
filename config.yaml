@@ -304,10 +304,10 @@ connectors:
 correspondence-api:
   ## The default recipient to email when there's no other choice - e.g. when asking a
   ## question about a dataset for which there's no organisational email
-  defaultRecipient: "test@example.com"
+  defaultRecipient: "jian.tao.bruce.fan@dnvgl.com"
 
   ## The hostname of the SMTP server to use - the password should be in a secret
-  smtpHostname: "example.com"
+  smtpHostname: "dnvgl.com"
 
   ## The SMTP port to use - beware, default SMTP ports are blocked on most cloud
   ## providers
